@@ -1,7 +1,7 @@
 # Arena: Terminal Game
 Game made in C++ made to be run in the terminal exclusively. 
 
-##Currently Working On:
+## Currently Working On:
 - Refactoring project with proper class setup
 
 
